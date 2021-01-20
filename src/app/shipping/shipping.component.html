@@ -1,0 +1,17 @@
+<div class="row">
+  <div class="col-12 col-md-12 p-3 p-md-5">
+    <h3>
+      Accepted payment methods
+    </h3>
+    <p>
+      Sent money or tranfer to we bank account <br />Donate if you wan to
+      contribute for this open source code project. sent money with moneygram or
+      western union to we local bank account.
+    </p>
+    <div class="shipping-item" *ngFor="let shipping of shippingCosts | async">
+      <span>{{ shipping.bank }}</span>
+      <span>{{ shipping.name }}</span>
+      <span>{{ shipping.norek }}</span>
+    </div>
+  </div>
+</div>
