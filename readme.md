@@ -64,4 +64,6 @@ For deploy on your web host you need build this angular shop apps, just run : ng
 
 For documentation and demo : [https://www.hockeycomputindo.com/2021/01/angular-new-online-shop-modern-free.html](https://www.hockeycomputindo.com/2021/01/angular-new-online-shop-modern-free.html)
 
+[Play video demo](https://youtu.be/-xXcpctuheo)
+
 Happy codding !!
