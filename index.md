@@ -6,23 +6,12 @@ Blast fast and simple for build online shop for learn angular.
 
 Product screen - click and select on product for detail information and add to chart
 
-![angular online shop free download gratis source code full](https://a.fsdn.com/con/app/proj/angularshop/screenshots/free%20download%20angular%20online%20shop%20source%20code%20%282%29.jpg/max/max/1)
+![angular online shop free download gratis source code full](https://1.bp.blogspot.com/-qse6E0rAi1w/YAiYY3x5NSI/AAAAAAAAJ4E/jDnaw9TYtDo6zD88CSX_446cRpufW2YRgCLcBGAsYHQ/s16000/free%2Bdownload%2Bangular%2Bonline%2Bshop%2Bsource%2Bcode%2B%25281%2529.jpg)
 
-Detail information about product with color , size, description and pricing
-
-![angular online shop free download gratis source code full](https://a.fsdn.com/con/app/proj/angularshop/screenshots/free%20download%20angular%20online%20shop%20source%20code%20%283%29.png/max/max/1)
-
-Chekcout page, including bank of payment information
-
-![angular online shop free download gratis source code full](https://a.fsdn.com/con/app/proj/angularshop/screenshots/free%20download%20angular%20online%20shop%20source%20code%20%281%29.png/max/max/1)
-
-Cool display with landing page
-
-![angular online shop free download gratis source code full](https://a.fsdn.com/con/app/proj/angularshop/screenshots/free%20download%20angular%20online%20shop%20source%20code%20%283%29.jpg/max/max/1)
-
-Full display angular online shop
-
-![angular online shop free download gratis source code full](https://a.fsdn.com/con/app/proj/angularshop/screenshots/free%20download%20angular%20online%20shop%20source%20code%20%281%29.jpg/max/max/1)
++ Detail information about product with color , size, description and pricing
++ Chekcout page, including bank of payment information
++ Cool display with landing page
++ Full display angular online shop
 
 =================================================
 
